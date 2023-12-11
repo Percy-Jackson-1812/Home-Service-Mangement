@@ -1,13 +1,13 @@
 # HomeServicesManagementSystem
-Epics Project 2022-23 
-\br 20BHI10033   Shivam Sharma
-\br 20BAI10085    Ayush Porwal
-\br 20BAI10299   Rushil Bhatnagar
-\br 20BAI10327    Yashaswi Patel
-\br 20BCE10498    Drishtavya Gupta
-\br 20BCE10845    Akshat Dadhich
-\br 20BCE10892    Deepanshu Pandey
-\br 20BCY10197    Aayushi Srivastava
+Epics Project 2022-23  
+20BHI10033   Shivam Sharma  
+20BAI10085    Ayush Porwal  
+20BAI10299   Rushil Bhatnagar  
+20BAI10327    Yashaswi Patel  
+20BCE10498    Drishtavya Gupta  
+20BCE10845    Akshat Dadhich  
+20BCE10892    Deepanshu Pandey  
+20BCY10197    Aayushi Srivastava
 
 • Created a web application that allows easy booking of local servicemen in a particular area.
 
