@@ -1,4 +1,14 @@
 # HomeServicesManagementSystem
+Epics Project 2022-23 
+20BHI10033   Shivam Sharma
+20BAI10085    Ayush Porwal
+20BAI10299   Rushil Bhatnagar
+20BAI10327    Yashaswi Patel
+20BCE10498    Drishtavya Gupta
+20BCE10845    Akshat Dadhich
+20BCE10892    Deepanshu Pandey
+20BCY10197    Aayushi Srivastava
+
 • Created a web application that allows easy booking of local servicemen in a particular area.
 
 • The application has separate user, admin and servicemen profiles with proper authentication using Django user authentication system.
